@@ -1,16 +1,8 @@
-# qr_code_scanner_and_generator_tutorial
+# QR COADET
 
-A new Flutter project.
+Aplicación de lectura de códigos QR, que verifica en base de datos si existe el alumno y su ultima asistencia
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Autor
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [@JohanTAP](https://www.github.com/JohanTAP)
